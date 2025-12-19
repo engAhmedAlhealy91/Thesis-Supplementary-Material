@@ -1,7 +1,6 @@
 # Thesis-Supplementary-Material
 Official repository containing the source code, technical documentation, and supplementary materials for Ahmed Healy's Master's Thesis
-# Master's Thesis: [Application Layer-Centric Control and Management Protocol for Wireless Sensor Network![Uploading image.png…]()
-]
+# Master's Thesis: [Application Layer-Centric Control and Management Protocol for Wireless Sensor Network]
 
 **Author:** Ahmed Abdullah Fathi AlHealy
 **Institution:** [Computer Engineering, University of Mosul ]
