@@ -1,23 +1,13 @@
-# Thesis-Supplementary-Material
-Official repository containing the source code, technical documentation, and supplementary materials for Ahmed Healy's Master's Thesis
-# Master's Thesis: [A Modular User-Space Framework for Wireless Network Protocol Prototyping on Embedded Systems]
+# A User-Space Virtualization Lab for Postgraduate Networking Education and Research in WMN, MANET, and WSN
 
-**Author:** Ahmed Abdullah Fathi AlHealy
-**Institution:** [Computer Engineering, University of Mosul ]
+This repository provides the supplementary materials associated with the research paper:
 
-## Repository Overview
-This repository serves as the central hub for all technical artifacts related to my Master's Thesis. It includes the source code, configuration scripts, experimental data, and supplementary documentation developed during the research.
+(A User-Space Virtualization Lab for Postgraduate Networking Education and Research in WMN, MANET, and WSN)
 
-## Contents
+The work presents a lightweight application-layer networking overlay designed to support postgraduate networking education and experimental research using real hardware. The framework enables students and researchers to implement, modify, observe, and evaluate networking protocols without modifying the operating-system kernel.
 
-### 1. Technical Documentation (Available Now)
-* **Ad-Hoc Network Implementation Guide:** A detailed PDF reference documenting the hardware setup, driver integration, and configuration steps used to build the Raspberry Pi testbed.
-    * *File:* `Establishing the Ad-Hoc Network Substrate.pdf`
+The experimental platform uses Raspberry Pi nodes and a user-space implementation of OLSR. Protocol messages are constructed within the experimental framework and transmitted through the host operating system using UDP sockets. This design provides a practical compromise between protocol transparency, real-hardware experimentation, implementation accessibility, and reproducibility.
 
-### 2. Source Code & Framework (Coming Soon)
-* **Virtual Stack Implementation:** Python-based implementation of the proposed framework.
-* **OLSR Plugin Extensions:** Custom modules developed for the routing protocol.
-* *Note: Source code is currently being organized and will be uploaded shortly.*
 
 ## Contact
 For any queries regarding the implementation or reproduction of results, please contact the author.
